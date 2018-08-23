@@ -28,7 +28,7 @@
     "GitHub": ["https://github.com/pcsx4"]
   },
   "Locations": {
-    "Domains": {"www.pcsx4.com"};
+    "Domains": {"www.pcsx4.com"},
     "Sub-Domains": {},
     "URLs": {"https://pcsx4.com/"};
   }
