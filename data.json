@@ -16,7 +16,7 @@
   }
 }
 
-var PCSX4 {
+obj PCSX4 {
   "Usernames": {
     "YouTube": [https://www.youtube.com/channel/UCNQyUzA74CAVvgVra6V1HBw],
     "Vimeo": [],
