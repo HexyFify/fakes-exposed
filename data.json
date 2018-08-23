@@ -18,18 +18,18 @@
 
 {
   "Usernames": {
-    "YouTube": [https://www.youtube.com/channel/UCNQyUzA74CAVvgVra6V1HBw],
+    "YouTube": ["https://www.youtube.com/channel/UCNQyUzA74CAVvgVra6V1HBw"],
     "Vimeo": [],
-    "Twitter": [https://twitter.com/pcsx4],
+    "Twitter": ["https://twitter.com/pcsx4"],
     "Gab": [],
-    "FaceBook": [https://www.facebook.com/pcsx4],
+    "FaceBook": ["https://www.facebook.com/pcsx4"],
     "Instagram": [],
     "Reddit": [],
-    "GitHub": [https://github.com/pcsx4]
+    "GitHub": ["https://github.com/pcsx4"]
   },
   "Locations": {
-    "Domains": {www.pcsx4.com},
+    "Domains": {"www.pcsx4.com"},
     "Sub-Domains": {},
-    "URLs": {https://pcsx4.com/}
+    "URLs": {"https://pcsx4.com/"}
   }
 }
